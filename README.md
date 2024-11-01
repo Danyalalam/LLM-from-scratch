@@ -2,6 +2,11 @@
 
 Welcome to the **LLM from Scratch** project! This repository contains code and resources for building a Language Model (LLM) from the ground up.
 
+The mental model below summarizes the contents that will be covered in this repo.
+
+<img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/mental-model.jpg" width="650px">
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
